@@ -12,7 +12,8 @@ function Card() {
   return (
         <ContainerL>
             <CardDiv>
-                <CardImg src="/seungeun.jpg"/>
+                {/* foto temporária */}
+                <CardImg src="/seungeun.jpg"/> 
                 <div>
                     <CardH2>Quem sou eu?</CardH2>
                     <CardH3>Desenvolvedor Front-End</CardH3>
